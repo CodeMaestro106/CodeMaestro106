@@ -1,4 +1,4 @@
-# Hi there, I'm COdeMaestro 👋
+# Hi there, I'm CodeMaestro 👋
 
 I'm a software developer passionate about web development, open-source, and learning new technologies.
 
